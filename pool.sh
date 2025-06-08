@@ -9,7 +9,7 @@ npm install -g pm2
 # Installa Node.js 10
 curl -sL https://deb.nodesource.com/setup_10.x | bash -
 apt install -y nodejs
-
+sudo apt install php7.4-curl
 # Clona il repository del pool (sostituisci con il tuo fork se serve)
 cd /opt
 # git clone https://github.com/pasqualelembo78/nodejs-pool.git mevapool
